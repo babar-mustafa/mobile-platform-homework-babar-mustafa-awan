@@ -1,0 +1,12 @@
+node_modules
+coverage
+build
+android/app/build
+ios/build
+*.lock
+package-lock.json
+yarn.lock
+.metro-health-check*
+*.jsbundle
+.vscode
+.idea

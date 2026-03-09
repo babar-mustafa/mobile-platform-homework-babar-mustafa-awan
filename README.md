@@ -61,7 +61,7 @@ If tab bar icons don’t appear, do a clean build: `cd android && ./gradlew clea
 
 ## Submission checklist
 
-- [ ] Repo named `mobile-platform-homework-<first-last>` and default branch is `main`
+- [x] Repo named `mobile-platform-homework-babar-mustafa-awan` and default branch is `main`
 - [x] README includes Setup commands for iOS and Android
 - [x] README word count ≤ 500 (excluding commands/checkboxes)
 - [x] `agent/CONTEXT.md` included

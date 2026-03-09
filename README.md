@@ -67,7 +67,7 @@ If tab bar icons don’t appear, do a clean build: `cd android && ./gradlew clea
 - [x] `agent/CONTEXT.md` included
 - [x] `artifacts/decisions.md` included (≤ 400 words)
 - [x] `artifacts/architecture.(png|md)` included (architecture.md)
-- [x] `artifacts/demo-ios.mp4` and `artifacts/demo-android.mp4` included (Android: `demo-android.mov`)
+- [x] `artifacts/demo-ios.mov` and `artifacts/demo-android.mov` included
 - [x] One meaningful test included and described
 - [x] AI disclosure included (tools used + how + what was yours)
 
